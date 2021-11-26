@@ -65,5 +65,9 @@ http://bit.ly/30Z9nsQ
 #EXTINF:-1 tvg-logo="http://bit.ly/3nS0hal" group-title="Hollywood", Alien Covenant
 http://bit.ly/32BbT9I
 
-EXTINF:-1 tvg-logo="http://bit.ly/3cOkR5h" group-title="Hollywood", Jurassic Galaxy
+#EXTINF:-1 tvg-logo="http://bit.ly/3cOkR5h" group-title="Hollywood", Jurassic Galaxy
 http://bit.ly/3cOkDer
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3100wHt" group-title="Bollywood", Hungama 2
+http://bit.ly/3cOkDer
+
