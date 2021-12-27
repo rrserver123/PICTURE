@@ -1,4 +1,68 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-logo="http" group-title="Bollywood", Atrangi Re (2021)
+http://bit.ly/3ew0zOA
+
+#EXTINF:-1 tvg-logo="http" group-title="Bollywood", Atim (2021)
+http://bit.ly/3H56PJE
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3HaK9Yt" group-title="Bollywood", 83 (2021)
+http://bit.ly/3mwDAr4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3nXv6L5" group-title="Bollywood", Sachaa Jutha (1980)
+http://bit.ly/3FW4qR3
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3G1rX2Z" group-title="Bollywood", Gulabo Sitabo (2020)
+http://bit.ly/3rlw71s
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3pcOanU" group-title="Bollywood", Bunty & Babli2 (2021)
+http://bit.ly/3pgGlxh
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3G25Vgw" group-title="Bollywood", Sooryavanshi (2021)
+http://bit.ly/3pg3r7f
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3IcIxij" group-title="Bollywood", Deewar (1975)
+http://bit.ly/3rrcd5d
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3rkrtRd" group-title="Bollywood", Hungama 2 (2021)
+http://bit.ly/3xQ1vGE
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3EZzvmO" group-title="Hollywood", Space Sweeper
+http://bit.ly/3yuALfg
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3cYtxG9" group-title="Hollywood", Aquaman (2020)
+http://bit.ly/3laGLUX
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3nS0hal" group-title="Hollywood", Alien Covenant (2017)
+http://bit.ly/32BbT9I
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3yoHGGC" group-title="Hollywood", 5th Passenger
+http://bit.ly/3DPsvrf
+
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/wp-content/uploads/2021/03/godzilla_vs_kong_ver12_xlg-900x900.jpg" group-title="Hollywood", Godzilla Vs Kong (2021)
+https://bit.ly/3nSkoW9
+
+#EXTINF:-1 tvg-logo="http://bit.ly/32NTCGj" group-title="Hollywood", Shang chi & the legend of 10 Rings (2021)
+http://bit.ly/3d46KZS
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3liI3NC" group-title="Hollywood", Jungle cruise (2021)
+https://tg-link.herokuapp.com/dl/0/Jungle_Cruise_2021_720p_HEVC_BluRay_Dual_Audio_Hindi.mkv
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3G4EfHS" group-title="Hollywood", No Time to Die (2021)
+http://bit.ly/3pjrHW3
+
+#EXTINF:-1 tvg-logo="http://bit.ly/31b2eX9" group-title="Hollywood", Eternals (2021)
+http://bit.ly/3pkPfu1
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3Ghjl8i" group-title="Hollywood", Resident Evil Raccoon City (2021)
+http://bit.ly/3ooHpzY
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3s98FF9" group-title="Hollywood", Spider man No way Home (2021)
+http://bit.ly/3pZv5G9
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3FsDt7F" group-title="South Indian", Pushpa The Rise (2021)
+http://bit.ly/3swtAC0
+
 #EXTINF:-1 tvg-logo="http://gram0.herokuapp.com/w/wp_CrMKswpPCncKn/2021-11-25_17-30-09.jpg" group-title="Webseries", Lost in Space (2018) S01E01
 https://bit.ly/32s8t93
 
@@ -82,60 +146,3 @@ http://bit.ly/3IP0yU0
 
 #EXTINF:-1 tvg-logo="http://gram0.herokuapp.com/w/wp_CrMKswpPCncKn/2021-11-25_17-30-09.jpg" group-title="Webseries", Lost in Space (2018) S03E08
 http://bit.ly/3m85Hgm
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3nS0hal" group-title="Hollywood", Alien Covenant (2017)
-http://bit.ly/32BbT9I
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3yoHGGC" group-title="Hollywood", 5th Passenger
-http://bit.ly/3DPsvrf
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3nXv6L5" group-title="Bollywood", Sachaa Jutha (1980)
-http://bit.ly/3FW4qR3
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3cYtxG9" group-title="Hollywood", Aquaman (2020)
-http://bit.ly/3laGLUX
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3G1rX2Z" group-title="Bollywood", Gulabo Sitabo (2020)
-http://bit.ly/3rlw71s
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3EZzvmO" group-title="Hollywood", Space Sweeper
-http://bit.ly/3yuALfg
-
-#EXTINF:-1 tvg-logo="https://bleedingcool.com/wp-content/uploads/2021/03/godzilla_vs_kong_ver12_xlg-900x900.jpg" group-title="Hollywood", Godzilla Vs Kong (2021)
-https://bit.ly/3nSkoW9
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3pcOanU" group-title="Bollywood", Bunty & Babli2 (2021)
-http://bit.ly/3pgGlxh
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3G25Vgw" group-title="Bollywood", Sooryavanshi (2021)
-http://bit.ly/3pg3r7f
-
-EXTINF:-1 tvg-logo="http://bit.ly/32NTCGj" group-title="Hollywood", Shang chi & the legend of 10 Rings (2021)
-http://bit.ly/3d46KZS
-
-EXTINF:-1 tvg-logo="http://bit.ly/3liI3NC" group-title="Hollywood", Jungle cruise (2021)
-https://tg-link.herokuapp.com/dl/0/Jungle_Cruise_2021_720p_HEVC_BluRay_Dual_Audio_Hindi.mkv
-
-EXTINF:-1 tvg-logo="http://bit.ly/3G4EfHS" group-title="Hollywood", No Time to Die (2021)
-http://bit.ly/3pjrHW3
-
-EXTINF:-1 tvg-logo="http://bit.ly/31b2eX9" group-title="Hollywood", Eternals (2021)
-http://bit.ly/3pkPfu1
-
-EXTINF:-1 tvg-logo="http://bit.ly/3IcIxij" group-title="Bollywood", Deewar (1975)
-http://bit.ly/3rrcd5d
-
-EXTINF:-1 tvg-logo="http://bit.ly/3rkrtRd" group-title="Bollywood", Hungama 2 (2021)
-http://bit.ly/3xQ1vGE
-
-EXTINF:-1 tvg-logo="http://bit.ly/3Ghjl8i" group-title="Hollywood", Resident Evil Raccoon City (2021)
-http://bit.ly/3ooHpzY
-
-EXTINF:-1 tvg-logo="http://bit.ly/3s98FF9" group-title="Hollywood", Spider man No way Home (2021)
-http://bit.ly/3pZv5G9
-
-EXTINF:-1 tvg-logo="http://bit.ly/3FsDt7F" group-title="South Indian", Pushpa The Rise (2021)
-http://bit.ly/3swtAC0
-
-EXTINF:-1 tvg-logo="http://bit.ly/3HaK9Yt" group-title="Bollywood", 83 (2021)
-http://bit.ly/3mwDAr4
