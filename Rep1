@@ -15,9 +15,6 @@ https://bit.ly/3z7u96y
 #EXTINF:-1 tvg-logo="https://bit.ly/3mC2NAA" group-title="Bollywood", Satyameva Jayate 2 (2021)
 https://bit.ly/3pBDr83
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3nXv6L5" group-title="Bollywood", Sachaa Jutha (1980)
-http://bit.ly/3FW4qR3
-
 #EXTINF:-1 tvg-logo="http://bit.ly/3G1rX2Z" group-title="Bollywood", Gulabo Sitabo (2020)
 http://bit.ly/3rlw71s
 
@@ -26,9 +23,6 @@ https://bit.ly/3EGS9yx
 
 #EXTINF:-1 tvg-logo="http://bit.ly/3G25Vgw" group-title="Bollywood", Sooryavanshi (2021)
 http://bit.ly/3pg3r7f
-
-#EXTINF:-1 tvg-logo="http://bit.ly/3IcIxij" group-title="Bollywood", Deewar (1975)
-http://bit.ly/3rrcd5d
 
 #EXTINF:-1 tvg-logo="http://bit.ly/3rkrtRd" group-title="Bollywood", Hungama 2 (2021)
 http://bit.ly/3xQ1vGE
@@ -44,6 +38,12 @@ https://bit.ly/31aR9oW
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3JrdX4X" group-title="Bollywood", Jab We Met (2007)
 https://bit.ly/3z5EMa0
+
+#EXTINF:-1 tvg-logo="http://bit.ly/3IcIxij" group-title="Bollywood", Deewar (1975)
+http://bit.ly/3rrcd5d
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3nXv6L5" group-title="Bollywood", Sachaa Jutha (1980)
+http://bit.ly/3FW4qR3
 
 #EXTINF:-1 tvg-logo="http://bit.ly/3FsDt7F" group-title="South Indian", Pushpa The Rise (2021)
 http://bit.ly/3swtAC0
